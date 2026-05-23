@@ -1,5 +1,6 @@
 <div align="center">
 
+[//]: # (<div align="center"> <img src="https://metrics.lecoq.io/27xk?template=classic&config.timezone=Asia%2FShanghai"> </div>)
 
 # 👋 Hi, I'm 27xk
 
@@ -114,23 +115,6 @@
 
 ---
 
-## 📌 公开项目
-
-<div align="center">
-
-
-<a href="https://github.com/27xk/xiaoaimusic-lyrics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=27xk&repo=xiaoaimusic-lyrics&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/27xk/astrbot_plugin_qqyy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=27xk&repo=astrbot_plugin_qqyy&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ## 🧩 技术关键词
 
 ```text
@@ -144,20 +128,6 @@ Focus         接口开发 / 协议分析 / 自动化工具 / 插件封装 / 服
 
 ---
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=27xk&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27xk&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Top Languages" />
-
-</div>
-
----
 
 ## 🔥 连续提交统计
 
